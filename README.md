@@ -5,6 +5,6 @@ As I stand in January, I have three upcoming interviews this month. In the inter
 
 ## To download
 
-`cd` into the location where you'd like to store the file
-`git clone https://github.com/hccallaway/Data-Structures-JS.git`
-Now the file will exist in that location.
+- `cd` into the location where you'd like to store the file
+- `git clone https://github.com/hccallaway/Data-Structures-JS.git`
+- Now the file will exist in that location.
